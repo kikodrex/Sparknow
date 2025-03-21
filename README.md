@@ -40,18 +40,10 @@ Note:
 
 ## Configuration
 
-- **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
+- **tokens.txt:** You will find the file `tokens.txt` inside the project directory. Make sure `tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
-    [
-        {
-            "Email": "your email address 1",
-            "Password": "your password 1"
-        },
-        {
-            "Email": "your email address 2",
-            "Password": "your password 2"
-        }
-    ]
+    your_bearer_token_1
+    your_bearer_token_2
   ```
 
 - **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
