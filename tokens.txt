@@ -1,2 +1,0 @@
-your_bearer_token_1
-your_bearer_token_2
